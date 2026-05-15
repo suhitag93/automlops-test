@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "fleet-auditor": {
+      "source": "alexgreensh/token-optimizer",
+      "sourceType": "github",
+      "skillPath": "skills/fleet-auditor/SKILL.md",
+      "computedHash": "f5d14ccd30d4986497a6ab17145e21ac6aea66fe1198788e31c11d939b557fc2"
+    },
+    "token-coach": {
+      "source": "alexgreensh/token-optimizer",
+      "sourceType": "github",
+      "skillPath": "skills/token-coach/SKILL.md",
+      "computedHash": "5f089ca6f7082ecd56292482186abb170bdfdd9d5214851ce036b9d5e7909932"
+    },
+    "token-dashboard": {
+      "source": "alexgreensh/token-optimizer",
+      "sourceType": "github",
+      "skillPath": "skills/token-dashboard/SKILL.md",
+      "computedHash": "357546e51e59a7eab9c9c1f3e451e510b5b3d5e47e64a3eea4edc63b3a04a2e1"
+    },
+    "token-optimizer": {
+      "source": "alexgreensh/token-optimizer",
+      "sourceType": "github",
+      "skillPath": "skills/token-optimizer/SKILL.md",
+      "computedHash": "5ecb5b67329d8ec851e259026b1f80dafc86422a3083a614b2b549eb9f6de5e5"
+    }
+  }
+}
